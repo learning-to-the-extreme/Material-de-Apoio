@@ -15,3 +15,8 @@
 Java Platform, Enterprise Edition (Java EE) 8
 The Java EE Tutorial </h2>
         <link>https://javaee.github.io/tutorial/overview001.html</link>
+        
+<h2> 
+Java Developer
+Step by step guide to becoming a Java developer in 2022 </h2>
+        <link>https://roadmap.sh/java</link>
