@@ -1,4 +1,4 @@
-# Link com ajuda
+# Link com Ajudas
 
 ![](https://i.imgur.com/waxVImv.png)
 
