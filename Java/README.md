@@ -22,3 +22,8 @@ The Java EE Tutorial </h2>
 Java Developer
 Step by step guide to becoming a Java developer in 2022 </h2>
         <link>https://roadmap.sh/java</link>
+        
+        
+<h2> 
+Guides - Latest Quarkus</h2>
+        <link>https://quarkus.io/guides/</link>
